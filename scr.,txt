@@ -1,0 +1,50 @@
+{
+    "txid" : "0859b20a1a43a26426696a7458ca6ffac7af382f679cebcef8845efa0843a34a",
+    "version" : 1,
+    "locktime" : 0,
+    "vin" : [
+        {
+            "txid" : "3f4fa19803dec4d6a84fae3821da7ac7577080ef75451294e71f9b20e0ab1e7b",
+            "vout" : 0,
+            "scriptSig" : {
+                "asm" : "",
+                "hex" : ""
+            },
+            "sequence" : 4294967295
+        }
+    ],
+    "vout" : [
+        {
+            "value" : 49.99990000,
+            "n" : 0,
+            "scriptPubKey" : {
+                "asm" : "OP_DUP OP_HASH160 f04b8de1c78dd567f7188d405271786d8265ec53 OP_EQUALVERIFY OP_CHECKSIG",
+                "hex" : "76a914f04b8de1c78dd567f7188d405271786d8265ec5388ac",
+                "reqSigs" : 1,
+                "type" : "pubkeyhash",
+                "addresses" : [
+                    "n3RWyh9WcWiqUBPdDNKf2Kqe4FoqJmLwdm"
+                ]
+            }
+        }
+    ]
+}
+
+
+
+
+
+
+    [
+      {
+        "txid": "0859b20a1a43a26426696a7458ca6ffac7af382f679cebcef8845efa0843a34a", 
+        "vout": 0
+      }
+    ]
+    ''' '''
+    {
+      "1JY6ptxwSWsdbN7fSPzDMNiEXQiogJZG1J": 0.0001
+"scriptPubKey" : {
+                "asm" : "OP_2DUP OP_SHA256 <aliceCommit> OP_EQUALVERIFY OP_SHA256 <bobCommit> OP_EQUALVERIFY OP_SIZE OP_NIP OP_SWAP OP_SIZE OP_NIP OP_DUP OP_16 OP_SUB OP_16 OP_SUB OP_DUP OP_NOTIF OP_DROP OP_ELSE OP_1SUB OP_IF OP_RETURN OP_ELSE OP_SWAP OP_ENDIF OP_ENDIF OP_SUB OP_DUP OP_NOTIF OP_DROP OP_DUP OP_HASH160 <alicePublicKeyHash> OP_ELSE OP_1 OP_EQUALVERIFY OP_DUP OP_HASH160 <bobPublicKeyHash> OP_ENDIF OP_EQUALVERIFY OP_CHECKSIG
+"
+          }'''

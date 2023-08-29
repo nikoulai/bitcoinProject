@@ -1,0 +1,18 @@
+{
+  "name": "bitbet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bitcore": "^2.0.0",
+    "crypto-js": "^3.1.6",
+    "package.json": "^0.0.0",
+    "sizeof": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
